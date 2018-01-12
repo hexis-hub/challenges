@@ -5,7 +5,7 @@
 ## Front-End Challenge
 
 **Goal:**  
-Develop a client side application for get the most popular repositories of a user (by popularity). This application must be Crossbrowser
+Develop a client side application to get the most popular repositories of a user (by popularity). This application must be Crossbrowser
 
 **API**: [https://developer.github.com/v3/](https://developer.github.com/v3/)
 

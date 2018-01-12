@@ -1,6 +1,6 @@
-#Front-End Challenge Hexis Technology Hub
+# Front-End Challenge Hexis Technology Hub
 
-**>Goal:**  
+**Goal:**  
 Implementate a client side application which get updates from GitHub api about the most popular repositories of a user. 
 This application must be crossbrowser
 

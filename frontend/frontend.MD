@@ -1,4 +1,8 @@
-# Front-End Challenge Hexis Technology Hub
+<p align="center"">
+  <img src="https://image.ibb.co/egZVe6/Positivo_Tag.png" alt="Hexis Hub"/>
+</p>
+
+## Front-End Challenge Hexis
 
 **Goal:**  
 Implementate a client side application which get updates from GitHub api about the most popular repositories of a user. 

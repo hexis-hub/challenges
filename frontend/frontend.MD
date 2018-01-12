@@ -5,22 +5,25 @@
 ## Front-End Challenge
 
 **Goal:**  
-Develop a client side application with a main featuer: Get the most popular repositories of a user (by popularity). 
-This application must be Crossbrowser
+Develop a client side application for get the most popular repositories of a user (by popularity). This application must be Crossbrowser
 
 **API**: [https://developer.github.com/v3/](https://developer.github.com/v3/)
 
 ### **Goals to achieve** ###
-Like a regular
+Like a regular user we want to: 
 * Search an GitHub user;
-* See the searched GitHub user details;
+* See the searched GitHub user details and repos;
 * Sort the results by order (DESC; ASC) and popularity;
 * See the details of a repo;
 
 ### **How I know that I've done?** ###
 
-* The layout must be responsive. (starting in a 320x480px minimum resolution);
-* Frameworks and libs aren't pre requisites but we use React, [React.js](https://facebook.github.io/react/);
+* You should have at least one screen with a searchbox to type an user;
+* The search must return a detail page (Navigation and UX is by your own ;))
+* I can navigate between repositories and change users;
+* The layout is responsive and fits well even in mobile. (starting in a 320x480px minimum resolution);
+
+** Frameworks and libs aren't pre requisites but we use React, [React.js](https://facebook.github.io/react/);
 DETAIL: Feel free to develop in other options like [Angular](https://angular.io/) or [Vue.js](https://vuejs.org/) 
 or nothing your choice give us your best :);
 * A routing system is extremaly requested;
@@ -33,9 +36,9 @@ and lets talk!
 * Good practices (Security, organization and consistence for large scale applications);
 * Well wrote and stable code;
 
-PLUS: Automated and/or united tests
+PLUS: Automated and/or integration tests
 
-The perfomance, resources usage and network handling will be avaliated during the entire process.
+The perfomance, resources utilization and network handling will be avaliated during the entire process.
 
 ### **Complementation** ###
 API Reference:
@@ -53,4 +56,4 @@ Send us a link to your repo :)
 
 We are here for any doubts!
 
-Good work!
+Good work and success!

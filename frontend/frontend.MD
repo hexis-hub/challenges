@@ -25,7 +25,7 @@ Like a regular user we want to:
 
 ** Frameworks and libs aren't pre requisites but we use React, [React.js](https://facebook.github.io/react/);
 DETAIL: Feel free to develop in other options like [Angular](https://angular.io/) or [Vue.js](https://vuejs.org/) 
-or nothing your choice give us your best :);
+or nothing, your choice, give us your best :);
 * A routing system is extremaly requested;
 
 ### **Avaliation** ###

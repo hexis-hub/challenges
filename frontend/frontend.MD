@@ -50,11 +50,9 @@ API Reference:
 
 
 ### **Send to us!** ###
-The challenge must be delivered by GitHub](http://github.com/) private or public your choice, just invite us or send us your repository link :)!. 
+The challenge must be delivered by [GitHub](http://github.com/) private or public your choice, just invite us or send us your repository link :)!. 
 
 The application should be hosted (We want to see online! :) Check some free providers: ([Heroku](https://www.heroku.com/), [Firebase](https://www.firebase.com/), [Plunker](https://plnkr.co/)).
-
-Send us a link to your repo :) 
 
 We are here for any doubts!
 

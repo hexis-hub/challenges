@@ -2,31 +2,33 @@
   <img src="https://image.ibb.co/egZVe6/Positivo_Tag.png" alt="Hexis Hub"/>
 </p>
 
-## Front-End Challenge
+## Hexis Technology Hub | Front-End Challenge
 
-**Goal:**  
-Develop a client side application to get the most popular repositories of a user (by popularity). This application must be Crossbrowser
+Hi :) How are you ? This is our little test, here you need to develop a client side application to get the most popular repositories from a GitHub user.
+
+This application must run on the modern browsers and follow the mobile first concepts and
+have a responsiveness behaviour
 
 **API**: [https://developer.github.com/v3/](https://developer.github.com/v3/)
 
-### **Goals to achieve** ###
-Like a regular user we want to: 
-* Search an GitHub user;
+### **When you must score points with us:** ###
+Like a regular user we want to, without errors and/or bad treated interceptions: 
+* Search for a GitHub user;
 * See the searched GitHub user details and repos;
 * Sort the results by order (DESC; ASC) and popularity;
-* See the details of a repo;
+* See a repository details;
 
 ### **How I know that I've done?** ###
 
-* You should have at least one screen with a searchbox to type an user;
+* You should have at least one screen with a searchbox to type for a user;
 * The search must return a detail page (Navigation and UX is by your own ;))
-* I can navigate between repositories and change users;
-* The layout is responsive and fits well even in mobile. (starting in a 320x480px minimum resolution);
+* I can navigate between repositories and change/research users;
+* The layout is responsive and fits well even in mobile;
 
-** Frameworks and libs aren't pre requisites but we use React, [React.js](https://facebook.github.io/react/);
+  **Frameworks and libs aren't pre requisites but we use React, [React.js](https://facebook.github.io/react/);**
 DETAIL: Feel free to develop in other options like [Angular](https://angular.io/) or [Vue.js](https://vuejs.org/) 
 or nothing, your choice, give us your best :);
-* A routing system is extremaly requested;
+* A routing system is extremaly required;
 
 ### **Avaliation** ###
 
@@ -50,7 +52,7 @@ API Reference:
 ### **Send to us!** ###
 The challenge must be delivered by GitHub](http://github.com/) private or public your choice, just invite us or send us your repository link :)!. 
 
-The application should be hosted (We want to see online! :) Check some free providers: ([Heroku](https://www.heroku.com/), [Firebase](https://www.firebase.com/), [Plunker](https://plnkr.co/).
+The application should be hosted (We want to see online! :) Check some free providers: ([Heroku](https://www.heroku.com/), [Firebase](https://www.firebase.com/), [Plunker](https://plnkr.co/)).
 
 Send us a link to your repo :) 
 
